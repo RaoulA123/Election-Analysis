@@ -1,6 +1,6 @@
 # Election-Analysis
 
-Overview of Election Audit
+## Overview of Election Audit
 During this project, we were tasked with assisting an employee of the Colorado board of elections, Tom, to find a more efficient and faster way to use Python to analyze count data such as mail-in ballots, punch cards, and direct recording electronic, to be able to select the new congressman. In order to achieve this goal without any problem, we were told certain key points to analyze and detail to achieve a better result. These key points are:
 
 Get the total number of votes cast.
@@ -8,7 +8,8 @@ Get the complete list of candidates who received votes.
 Get the percentage of votes each candidate won.
 Get the total number of votes each candidate won.
 Announce the winner of the election based on popular vote.
-Resources
+
+## Resources
 The resources we used for this analysis were:
 
 Election_Results.csv file to analyze and compile the great amount of data presented on it.
@@ -30,10 +31,10 @@ Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
 Shown below we share a picture of the final results after collecting the data from the Election_Results.csv file as a text_file in VS Code.
 
-Election_Results
+## Election_Results
 
-Challenges
+## Challenges
 Some of the challenges we faced during the analysis and collection of this data were to be able to read and write a CSV file in the VS Code editor and be able to code in a simple, understandable, and effective way all the information we had in a short period of time.
 
-Election-Audit Summary
+## Election-Audit Summary
 To end this analysis, our team concluded with the idea that this data and its design can be used for more kinds of analysis by just modifying its information. The different ways in which this analysis can be reused is by analyzing wider data of not only counties but complete states along with their representatives, and calculating the percentage of specific states that have a greater value at the moment of counting the votes.

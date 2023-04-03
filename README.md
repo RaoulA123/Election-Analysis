@@ -33,8 +33,6 @@ The three candidates along with their number of votes and the percentage of the 
 
 Shown below we share a picture of the final results after collecting the data from the Election_Results.csv file as a text_file in VS Code.
 
-![Election_Results](https://user-images.githubusercontent.com/113261292/197932906-c53d5c9b-789a-49d7-9164-170b75e90c4d.jpg)
-
 
 ## Election_Results
 
